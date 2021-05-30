@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "블로그 글 예시"
-subtitle:   "블로그 포스팅 프레임"
-date:       2021-01-19 12:00:00
+title:      "맵 차트 테스트"
+subtitle:   "맵 차트 테스트"
+date:       2021-05-30 21:00:00
 author:     "Youngnoh"
 catalog: false
 header-style: text
